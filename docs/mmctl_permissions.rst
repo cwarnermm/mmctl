@@ -34,6 +34,10 @@ SEE ALSO
 
 * `mmctl <mmctl.rst>`_ 	 - Remote client for the Open Source, self-hosted Slack-alternative
 * `mmctl permissions add <mmctl_permissions_add.rst>`_ 	 - Add permissions to a role (EE Only)
+* `mmctl permissions role assign <mmctl_permissions_role_assign.rst>`_ 	 - Assign users to role (EE Only)
 * `mmctl permissions remove <mmctl_permissions_remove.rst>`_ 	 - Remove permissions from a role (EE Only)
+* `mmctl permissions reset <mmctl_permissions_reset.rst>`_ 	 - Reset default permissions for role (EE Only)
 * `mmctl permissions role <mmctl_permissions_role.rst>`_ 	 - Management of roles
+* `mmctl permissions role show <mmctl_permissions_role_show.rst>`_ 	 - Show role permissions
+* `mmctl permissions role unassign <mmctl_permissions_role_unassign.rst>`_ 	 - Unassign users from role (EE Only)
 
